@@ -1,0 +1,54 @@
+{
+  "data": {
+    "projects": [
+      {
+        "id": 0,
+        "project_name": "Phrase Hunter",
+        "description": "A game show app where the user has five attempts to guess the phrase.",
+        "technologies": ["JavaScript", "HTML", "CSS"],
+        "live_link": "https://meltedopen.github.io/OOP-Game-Show-App/",
+        "github_link": "https://github.com/meltedopen/OOP-Game-Show-App",
+        "image_urls": [
+          "static/img/1_landing.png",
+          "/static/img/1_1.png",
+          "/static/img/1_2.png",
+          "/static/img/1_3.png"
+        ]
+      },
+      {
+        "id": 1,
+        "project_name": "Interactive Form",
+        "description": "An interactive form that dynamically responds based on user interaction.",
+        "technologies": ["JavaScript", "JQuery", "HTML", "CSS", "RegEx"],
+        "live_link": "https://meltedopen.github.io/Interactive-Form/",
+        "github_link": "https://github.com/meltedopen/Interactive-Form",
+        "image_urls": [
+          "/static/img/2_landing.png",
+          "/static/img/2_1.png",
+          "/static/img/2_2.png",
+          "/static/img/2_3.png"
+        ]
+      },
+      {
+        "id": 2,
+        "project_name": "Employee Directory",
+        "description": "Generates a random directory of employees using the Random User Generator API.",
+        "technologies": [
+          "JavaScript",
+          "JQuery",
+          "HTML",
+          "CSS",
+          "Random User Generator API"
+        ],
+        "live_link": "https://meltedopen.github.io/Public-API-Requests/",
+        "github_link": "https://github.com/meltedopen/Public-API-Requests",
+        "image_urls": [
+          "/static/img/3_landing.png",
+          "/static/img/3_1.png",
+          "/static/img/3_2.png",
+          "/static/img/3_3.png"
+        ]
+      }
+    ]
+  }
+}

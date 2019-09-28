@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  section.desk
+    .error-title
+        h1= `${error.message} - Status: ${error.status}`
+        p= error.stack
+        a.button.error-button(href='/') Go Back
+    .error-stack
